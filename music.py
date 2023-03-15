@@ -314,4 +314,3 @@ for key in keys:
         modes[v[0]][m] = v
     
 pprint.pprint(modes['C'])
-print(3+'Hello')
